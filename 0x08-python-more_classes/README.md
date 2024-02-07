@@ -1,12 +1,12 @@
 Resources
 Read or watch:
 
-Object Oriented Programming (Read everything until the paragraph “Inheritance” (excluded))
-Object-Oriented Programming (Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: “General Introduction,” “First-class Everything,” “A Minimal Class in Python,” “Attributes,” “Methods,” “The __init__ Method,” “Data Abstraction, Data Encapsulation, and Information Hiding,” “__str__- and __repr__-Methods,” “Public- Protected- and Private Attributes,” & “Destructor”)
-Class and Instance Attributes
-classmethods and staticmethods
-Properties vs. Getters and Setters (Mainly the last part “Public instead of Private Attributes”)
-str vs repr
+[Object Oriented Programming](https://python.swaroopch.com/oop.html) (Read everything until the paragraph “Inheritance” (excluded))
+[Object-Oriented Programming](https://python-course.eu/oop/object-oriented-programming.php) (Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: “General Introduction,” “First-class Everything,” “A Minimal Class in Python,” “Attributes,” “Methods,” “The __init__ Method,” “Data Abstraction, Data Encapsulation, and Information Hiding,” “__str__- and __repr__-Methods,” “Public- Protected- and Private Attributes,” & “Destructor”)
+[Class and Instance Attributes](https://python-course.eu/oop/class-instance-attributes.php)
+[classmethods and staticmethods](https://www.youtube.com/watch?v=rq8cL2XMM5M)
+[Properties vs. Getters and Setters](https://python-course.eu/oop/properties-vs-getters-and-setters.php) (Mainly the last part “Public instead of Private Attributes”)
+[str vs repr](https://shipit.dev/posts/python-str-vs-repr.html)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -661,7 +661,7 @@ One solution per line
 Format: see example
 You don’t have to print the solutions in a specific order
 You are only allowed to import the sys module
-Read: Queen, Backtracking
+Read: Queen, [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
 julien@ubuntu:~/0x08. N Queens$ ./101-nqueens.py 4
 [[0, 1], [1, 3], [2, 0], [3, 2]]
