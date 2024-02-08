@@ -1,16 +1,16 @@
 Read or watch:
 
-More Control Flow Tools (Read until “4.6. Defining Functions” included)
-IndentationError
-How To Use String Formatters in Python 3
-Learn to Program
-Learn to Program 2 : Looping
-Pycodestyle – Style Guide for Python Code
+[More Control Flow Tools](https://docs.python.org/3/tutorial/controlflow.html) (Read until “4.6. Defining Functions” included)
+[IndentationError](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
+[How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+[Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+[Learn to Program 2 : Looping](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+[Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
 0. Positive anything is better than negative nothing
 mandatory
 This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
 
-You can find the source code here
+You can find the source code [here](https://github.com/alx-tools/0x01.py/blob/master/0-positive_or_negative_py)
 The variable number will store a different value every time you will run this program
 You don’t have to understand what import, random. randint do. Please do not touch this code
 The output of the program should be:
@@ -48,7 +48,7 @@ File: 0-positive_or_negative.py
 mandatory
 This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
 
-You can find the source code here
+You can find the source code [here](https://github.com/alx-tools/0x01.py/blob/master/1-last_digit_py)
 The variable number will store a different value every time you will run this program
 You don’t have to understand what import, random.randint do. Please do not touch this code. This line should not change: number = random.randint(-10000, 10000)
 The output of the program should be:
@@ -629,7 +629,7 @@ Write the Python function def magic_calculation(a, b, c): that does exactly the 
              43 LOAD_FAST                2 (c)
              46 BINARY_SUBTRACT
              47 RETURN_VALUE
-tips - ByteCode
+[tips - ByteCode](https://docs.python.org/3.4/library/dis.html)
 
 Repo:
 
