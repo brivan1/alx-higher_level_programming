@@ -7,12 +7,12 @@ We strongly encourage you to work together on test cases, so that you don’t mi
 Don’t trust the user, always think about all possible edge cases
 Resources
 Read or watch:
-
-doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)
-doctest – Testing through documentation
-Unit Tests in Python
-Unittest module
-Interactive and Non-interactive tests
+[Never forget a test](https://intranet.alxswe.com/concepts/47)
+[doctest — Test interactive Python examples](https://docs.python.org/3.4/library/doctest.html) (until “26.2.3.7. Warnings” included)
+[doctest – Testing through documentation](https://pymotw.com/3/doctest/)
+[Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+[Unittest module](https://www.youtube.com/watch?v=6tNS--WetLI)
+[Interactive and Non-interactive tests](https://mattermost.com/blog/testing-python-understanding-doctest-and-unittest/)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -394,7 +394,7 @@ File: 100-matrix_mul.py, tests/100-matrix_mul.txt
   
 7. Lazy matrix multiplication
 #advanced
-Write a function that multiplies 2 matrices by using the module NumPy
+Write a function that multiplies 2 matrices by using the module [NumPy](https://numpy.org/)
 
 To install it: pip3 install numpy==1.15.0
 
@@ -428,7 +428,7 @@ Create a function that prints Python strings.
 Prototype: void print_python_string(PyObject *p);
 Format: see example
 If p is not a valid string, print an error message (see example)
-Read: Unicode HOWTO
+Read: [Unicode HowTo](https://docs.python.org/3.4/howto/unicode.html)
 About:
 
 Python version: 3.4
