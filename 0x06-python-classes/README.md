@@ -8,12 +8,12 @@ Read or watch the below resources in the order presented.
 Resources
 Read or watch:
 
-Object Oriented Programming (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)
-Object-Oriented Programming (Please *be careful*: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The __init__ Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)
-Properties vs. Getters and Setters
-Learn to Program 9 : Object Oriented Programming
-Python Classes and Objects
-Object Oriented Programming
+[Object Oriented Programming](https://python.swaroopch.com/oop.html) (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)
+[Object-Oriented Programming](https://python-course.eu/oop/object-oriented-programming.php) (Please *be careful*: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The __init__ Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)
+[Properties vs. Getters and Setters](https://python-course.eu/oop/properties-vs-getters-and-setters.php)
+[Learn to Program 9 : Object Oriented Programming](https://www.youtube.com/watch?v=1AGyBuVCTeE)
+[Python Classes and Objects](https://www.youtube.com/watch?v=apACNr7DC_s)
+[Object Oriented Programming](https://www.youtube.com/watch?v=-DP1i2ZU9gk)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -551,7 +551,7 @@ File: 102-square.py
    
 10. ByteCode -> Python #5
 #advanced
-Write the Python class MagicClass that does exactly the same as the following Python bytecode:
+Write the Python class MagicClass that does exactly the same as the following [Python bytecode](https://docs.python.org/3.4/library/dis.html):
 
 Disassembly of __init__:
  10           0 LOAD_CONST               1 (0)
