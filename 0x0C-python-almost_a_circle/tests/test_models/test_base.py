@@ -437,4 +437,4 @@ class Test_Base(unittest.TestCase):
         except Exception:
             pass
 
-if __name__ == '__main__':
+if __name__ == '__main__'
