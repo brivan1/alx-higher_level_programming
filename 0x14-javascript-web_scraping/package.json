@@ -2,10 +2,13 @@
   "name": "0x14-javascript-web_scraping",
   "version": "1.0.0",
   "description": "Build package.JSON:",
-  "main": "README.md",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
